@@ -1,0 +1,5267 @@
+
+
+******* Situacao nas filas na Unidade de Tempo: 0*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+3 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+1 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: inf
+ Tempo médio de espera para aterrisagem: 0.000000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 1*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+5 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+9 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+7 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 32769.000000
+ Tempo médio de espera para aterrisagem: 0.000000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 2*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+5 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+9 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 16385.000000
+ Tempo médio de espera para aterrisagem: 0.000000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 3*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+13 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 10922.333008
+ Tempo médio de espera para aterrisagem: 0.000000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 4*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 10922.333008
+ Tempo médio de espera para aterrisagem: 0.000000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 5*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+14 16
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 10922.333008
+ Tempo médio de espera para aterrisagem: 6553.399902
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 6*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+18 17
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+21 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+19 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 5461.333496
+ Tempo médio de espera para aterrisagem: 5461.166504
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 7*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+22 19
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+20 5
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+21 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+27 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+25 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 4681.428711
+ Tempo médio de espera para aterrisagem: 4681.143066
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 8*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+28 18
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+22 18
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+20 4
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+21 17
+
+33 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+31 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+29 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 4096.375000
+ Tempo médio de espera para aterrisagem: 4096.500000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 9*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+28 17
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+22 17
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+20 3
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+33 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+37 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+35 19
+
+39 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 3641.111084
+ Tempo médio de espera para aterrisagem: 3641.777832
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 10*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+30 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+22 16
+
+34 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+32 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+33 17
+
+43 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+37 18
+
+41 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+39 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 3277.300049
+ Tempo médio de espera para aterrisagem: 3277.500000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 11*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+30 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+36 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+33 16
+
+43 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+37 17
+
+41 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 2979.363525
+ Tempo médio de espera para aterrisagem: 2979.545410
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 12*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+38 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+40 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+33 15
+
+43 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+37 16
+
+41 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 2731.250000
+ Tempo médio de espera para aterrisagem: 2731.333252
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 13*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+42 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+44 1
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+33 14
+
+43 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+37 15
+
+41 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+49 19
+
+51 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 2521.384521
+ Tempo médio de espera para aterrisagem: 2521.384521
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 14*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+46 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+48 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+33 13
+
+43 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+37 14
+
+41 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+51 18
+
+53 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 2341.500000
+ Tempo médio de espera para aterrisagem: 2341.428467
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 15*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+50 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+52 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+33 12
+
+43 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+37 13
+
+41 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+53 18
+
+55 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 2185.533447
+ Tempo médio de espera para aterrisagem: 2185.466553
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 16*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+50 1
+
+54 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+52 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 13
+
+61 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+41 13
+
+59 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+55 18
+
+57 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 2048.875000
+ Tempo médio de espera para aterrisagem: 2049.125000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 17*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+54 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 4
+
+58 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 5
+
+60 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+52 10
+
+56 7
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 12
+
+61 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+59 18
+
+65 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+57 18
+
+63 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1928.117676
+ Tempo médio de espera para aterrisagem: 1928.764648
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 18*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+62 7
+
+64 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 3
+
+58 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+26 4
+
+60 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+56 6
+
+66 5
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 11
+
+61 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+59 17
+
+65 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+63 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1821.111084
+ Tempo médio de espera para aterrisagem: 1821.611084
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 19*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+64 1
+
+68 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 2
+
+58 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+60 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+56 5
+
+66 4
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 10
+
+61 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+59 16
+
+65 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+67 19
+
+69 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1725.315796
+ Tempo médio de espera para aterrisagem: 1725.473633
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 20*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+64 0
+
+68 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 1
+
+58 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+56 4
+
+66 3
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 9
+
+61 15
+
+75 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+65 16
+
+73 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+69 18
+
+71 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1639.150024
+ Tempo médio de espera para aterrisagem: 1639.199951
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 21*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+68 4
+
+74 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+34 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+70 3
+
+72 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+56 3
+
+66 2
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 8
+
+61 14
+
+75 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+65 15
+
+73 18
+
+79 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+71 18
+
+77 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1561.190430
+ Tempo médio de espera para aterrisagem: 1561.285767
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 22*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+68 3
+
+78 18
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+76 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+70 2
+
+72 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+56 2
+
+66 1
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 7
+
+61 13
+
+75 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+65 14
+
+73 17
+
+79 18
+
+85 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+77 18
+
+81 19
+
+83 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1490.318237
+ Tempo médio de espera para aterrisagem: 1489.954590
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 23*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+78 17
+
+82 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+76 7
+
+80 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+70 1
+
+72 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+56 1
+
+66 0
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 6
+
+61 12
+
+75 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+73 16
+
+79 17
+
+85 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+81 18
+
+83 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1425.478271
+ Tempo médio de espera para aterrisagem: 1425.217407
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 24*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+78 16
+
+84 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+76 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+70 0
+
+72 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+56 0
+
+86 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 5
+
+61 11
+
+75 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+73 15
+
+79 16
+
+85 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+81 17
+
+83 17
+
+87 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1366.208374
+ Tempo médio de espera para aterrisagem: 1366.000000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 25*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+78 15
+
+84 6
+
+90 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+76 5
+
+88 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+86 10
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+43 4
+
+61 10
+
+75 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+73 14
+
+79 15
+
+85 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+81 16
+
+83 16
+
+87 18
+
+89 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1311.680054
+ Tempo médio de espera para aterrisagem: 1311.040039
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 26*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+78 14
+
+84 5
+
+90 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+76 4
+
+88 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+92 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+86 9
+
+94 7
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+61 9
+
+75 13
+
+93 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+79 14
+
+85 15
+
+91 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+83 15
+
+87 17
+
+89 18
+
+95 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1261.076904
+ Tempo médio de espera para aterrisagem: 1260.769287
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 27*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+84 4
+
+90 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+76 3
+
+88 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+92 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+86 8
+
+94 6
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+61 8
+
+75 12
+
+93 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+85 14
+
+91 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+87 16
+
+89 17
+
+95 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1214.370361
+ Tempo médio de espera para aterrisagem: 1214.148193
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 28*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+84 3
+
+90 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+76 2
+
+88 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+92 13
+
+96 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+86 7
+
+94 5
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+75 11
+
+93 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+91 17
+
+97 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+89 16
+
+95 17
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1170.785767
+ Tempo médio de espera para aterrisagem: 1170.928589
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 29*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+90 4
+
+98 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+76 1
+
+88 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+92 12
+
+96 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+94 4
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+75 10
+
+93 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+91 16
+
+97 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+95 16
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1130.482788
+ Tempo médio de espera para aterrisagem: 1130.586182
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 30*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+90 3
+
+98 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+88 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+96 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+94 3
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+75 9
+
+93 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+91 15
+
+97 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+99 19
+
+101 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1092.766724
+ Tempo médio de espera para aterrisagem: 1092.866699
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 31*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+90 2
+
+98 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+88 1
+
+102 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+100 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+75 8
+
+93 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+91 14
+
+97 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+101 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1057.612915
+ Tempo médio de espera para aterrisagem: 1057.451660
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 32*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+90 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+88 0
+
+102 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+104 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+106 9
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+75 7
+
+93 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+91 13
+
+97 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+103 19
+
+105 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 1024.593750
+ Tempo médio de espera para aterrisagem: 1024.500000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 33*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+90 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+102 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+104 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+108 7
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+75 6
+
+93 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+91 12
+
+97 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+105 18
+
+107 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 993.636353
+ Tempo médio de espera para aterrisagem: 993.363647
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 34*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+110 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+102 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+104 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+108 6
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+75 5
+
+93 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+97 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+107 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 964.411743
+ Tempo médio de espera para aterrisagem: 964.000000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 35*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+110 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+102 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+104 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+93 10
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+97 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 936.685730
+ Tempo médio de espera para aterrisagem: 936.485718
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 36*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+102 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+112 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+93 9
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+97 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 910.722229
+ Tempo médio de espera para aterrisagem: 910.361084
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 37*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+93 8
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+97 10
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 886.162170
+ Tempo médio de espera para aterrisagem: 910.361084
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 38*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 886.162170
+ Tempo médio de espera para aterrisagem: 910.361084
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 39*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+118 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 886.162170
+ Tempo médio de espera para aterrisagem: 840.179504
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 40*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+115 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+113 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 819.200012
+ Tempo médio de espera para aterrisagem: 840.179504
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 41*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+126 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+115 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+113 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 799.268311
+ Tempo médio de espera para aterrisagem: 799.195129
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 42*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+126 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+128 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+115 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+113 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 780.285706
+ Tempo médio de espera para aterrisagem: 780.214294
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 43*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+115 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+113 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+121 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 762.209290
+ Tempo médio de espera para aterrisagem: 780.214294
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 44*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 762.209290
+ Tempo médio de espera para aterrisagem: 780.214294
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 45*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 762.209290
+ Tempo médio de espera para aterrisagem: 780.214294
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 46*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+123 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 712.326111
+ Tempo médio de espera para aterrisagem: 780.214294
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 47*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+123 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 697.191467
+ Tempo médio de espera para aterrisagem: 780.214294
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 48*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+142 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+125 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 682.645813
+ Tempo médio de espera para aterrisagem: 682.645813
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 49*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+125 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 668.734680
+ Tempo médio de espera para aterrisagem: 682.645813
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 50*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+125 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+127 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 655.400024
+ Tempo médio de espera para aterrisagem: 682.645813
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 51*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 655.400024
+ Tempo médio de espera para aterrisagem: 682.645813
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 52*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+131 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 630.134644
+ Tempo médio de espera para aterrisagem: 682.645813
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 53*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+133 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+131 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 618.283020
+ Tempo médio de espera para aterrisagem: 682.645813
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 54*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+135 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+139 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+137 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 606.833313
+ Tempo médio de espera para aterrisagem: 682.645813
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 55*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+152 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+154 9
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+145 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+143 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+141 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 595.799988
+ Tempo médio de espera para aterrisagem: 595.781799
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 56*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+152 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+154 8
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+145 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+143 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 585.178589
+ Tempo médio de espera para aterrisagem: 585.178589
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 57*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+164 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+160 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+154 7
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+145 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+143 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 574.947388
+ Tempo médio de espera para aterrisagem: 574.929810
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 58*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+164 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+154 6
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+145 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+143 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 565.068970
+ Tempo médio de espera para aterrisagem: 565.034485
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 59*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 17
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+170 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+154 5
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+145 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+151 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+149 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 555.474548
+ Tempo médio de espera para aterrisagem: 555.474548
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 60*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+172 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 16
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+170 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+154 4
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+157 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+155 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+153 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 546.150024
+ Tempo médio de espera para aterrisagem: 546.283325
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 61*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+174 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+170 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+176 1
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+157 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+155 18
+
+161 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+159 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 537.229492
+ Tempo médio de espera para aterrisagem: 537.278687
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 62*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+178 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+170 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+180 2
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+157 17
+
+165 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+155 17
+
+161 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+163 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 528.596802
+ Tempo médio de espera para aterrisagem: 528.645142
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 63*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+178 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+170 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+180 1
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+161 17
+
+171 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+167 19
+
+169 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 520.190491
+ Tempo médio de espera para aterrisagem: 520.317444
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 64*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+182 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 12
+
+186 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+170 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+180 0
+
+184 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 17
+
+173 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+171 18
+
+177 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+169 18
+
+175 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 512.078125
+ Tempo médio de espera para aterrisagem: 512.218750
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 65*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+182 10
+
+188 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 11
+
+186 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+190 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+184 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 16
+
+173 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+171 17
+
+177 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+175 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 504.230774
+ Tempo médio de espera para aterrisagem: 504.276917
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 66*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+182 9
+
+188 3
+
+196 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 10
+
+186 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+192 5
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 15
+
+173 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+171 16
+
+177 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+179 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 496.606049
+ Tempo médio de espera para aterrisagem: 496.651520
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 67*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+188 2
+
+196 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 9
+
+186 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+192 4
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 14
+
+173 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+177 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 489.194031
+ Tempo médio de espera para aterrisagem: 489.283569
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 68*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+196 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+168 8
+
+186 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+198 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 13
+
+173 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+177 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 482.029419
+ Tempo médio de espera para aterrisagem: 482.102936
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 69*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+196 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+200 2
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 12
+
+173 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+177 14
+
+187 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+185 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 475.086945
+ Tempo médio de espera para aterrisagem: 475.086945
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 70*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+202 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+204 1
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 11
+
+173 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+177 13
+
+187 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+189 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 468.328583
+ Tempo médio de espera para aterrisagem: 468.285706
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 71*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+206 16
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+208 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+165 10
+
+173 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+177 12
+
+187 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+191 19
+
+193 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 461.760559
+ Tempo médio de espera para aterrisagem: 461.718323
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 72*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+206 15
+
+210 18
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 5
+
+214 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+208 10
+
+212 6
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+173 11
+
+199 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+187 16
+
+197 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+193 18
+
+195 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 455.291656
+ Tempo médio de espera para aterrisagem: 455.361115
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 73*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+206 14
+
+210 17
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 4
+
+214 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 2
+
+216 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+208 9
+
+212 5
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+199 18
+
+205 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+197 18
+
+203 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+195 18
+
+201 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 448.931519
+ Tempo médio de espera para aterrisagem: 449.178070
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 74*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+210 16
+
+218 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 3
+
+214 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 1
+
+216 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+212 4
+
+220 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+199 17
+
+205 18
+
+211 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+197 17
+
+203 18
+
+209 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+201 18
+
+207 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 442.891907
+ Tempo médio de espera para aterrisagem: 443.135132
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 75*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+218 10
+
+222 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 2
+
+214 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+194 0
+
+216 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+212 3
+
+220 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+199 16
+
+205 17
+
+211 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+203 17
+
+209 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+207 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 437.000000
+ Tempo médio de espera para aterrisagem: 437.253326
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 76*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+218 9
+
+222 1
+
+224 19
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 1
+
+214 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+216 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+220 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+199 15
+
+205 16
+
+211 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+203 16
+
+209 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+213 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 431.263153
+ Tempo médio de espera para aterrisagem: 431.434204
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 77*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+222 0
+
+224 18
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+186 0
+
+214 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+216 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+220 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+199 14
+
+205 15
+
+211 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+209 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 425.662323
+ Tempo médio de espera para aterrisagem: 425.870117
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 78*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+224 17
+
+230 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+214 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+216 6
+
+228 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+220 11
+
+226 10
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+199 13
+
+205 14
+
+211 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+209 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+217 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 420.243591
+ Tempo médio de espera para aterrisagem: 420.346161
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 79*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+224 16
+
+230 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+214 6
+
+232 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+228 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+220 10
+
+226 9
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+205 13
+
+211 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+209 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 414.924042
+ Tempo médio de espera para aterrisagem: 415.012665
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 80*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+224 15
+
+230 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+232 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+234 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+220 9
+
+226 8
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+205 12
+
+211 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+209 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+221 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 409.774994
+ Tempo médio de espera para aterrisagem: 409.762512
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 81*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+224 14
+
+230 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+236 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+234 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+226 7
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+205 11
+
+211 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+209 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 404.728394
+ Tempo médio de espera para aterrisagem: 404.679016
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 82*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+224 13
+
+230 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+240 18
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+234 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+238 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+205 10
+
+211 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+209 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+225 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 399.829254
+ Tempo médio de espera para aterrisagem: 399.731720
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 83*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+230 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+240 17
+
+244 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+246 6
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+238 10
+
+242 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+205 9
+
+211 10
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+209 10
+
+229 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+227 19
+
+231 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 395.036133
+ Tempo médio de espera para aterrisagem: 394.903625
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 84*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+230 7
+
+248 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+240 16
+
+244 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+246 5
+
+250 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+238 9
+
+242 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 9
+
+237 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 18
+
+235 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+231 18
+
+233 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 390.250000
+ Tempo médio de espera para aterrisagem: 390.250000
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 85*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+230 6
+
+248 7
+
+252 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+240 15
+
+256 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+246 4
+
+250 10
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+242 14
+
+254 7
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 8
+
+237 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 17
+
+235 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+233 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 385.682343
+ Tempo médio de espera para aterrisagem: 385.694122
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 86*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+248 6
+
+252 12
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+240 14
+
+256 11
+
+260 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+246 3
+
+250 9
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+254 6
+
+258 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 7
+
+237 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 16
+
+235 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 381.197662
+ Tempo médio de espera para aterrisagem: 381.162781
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 87*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+248 5
+
+252 11
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+256 10
+
+260 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+246 2
+
+250 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+258 15
+
+262 4
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 6
+
+237 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 15
+
+235 16
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 376.839081
+ Tempo médio de espera para aterrisagem: 376.781616
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 88*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+252 10
+
+264 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+256 9
+
+260 3
+
+268 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+246 1
+
+250 7
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+262 3
+
+266 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 5
+
+237 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 14
+
+235 15
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 372.579559
+ Tempo médio de espera para aterrisagem: 372.522736
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 89*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+252 9
+
+264 12
+
+272 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+260 2
+
+268 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+250 6
+
+274 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+262 2
+
+266 13
+
+270 10
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 4
+
+237 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 13
+
+235 14
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 368.415741
+ Tempo médio de espera para aterrisagem: 368.359558
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 90*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+264 11
+
+272 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+260 1
+
+268 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+250 5
+
+274 4
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+266 12
+
+270 9
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 3
+
+237 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 12
+
+235 13
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 364.344452
+ Tempo médio de espera para aterrisagem: 364.266663
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 91*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+272 3
+
+276 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+260 0
+
+268 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+250 4
+
+274 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+270 8
+
+278 4
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 2
+
+237 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 11
+
+235 12
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 360.362640
+ Tempo médio de espera para aterrisagem: 360.285706
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 92*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+272 2
+
+276 1
+
+280 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+268 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+250 3
+
+274 2
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+278 3
+
+282 8
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 1
+
+237 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+229 10
+
+235 11
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+245 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 356.478271
+ Tempo médio de espera para aterrisagem: 356.369568
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 93*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+272 1
+
+276 0
+
+280 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+250 2
+
+274 1
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+278 2
+
+282 7
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 0
+
+237 10
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+235 10
+
+251 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+247 19
+
+249 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 352.655914
+ Tempo médio de espera para aterrisagem: 352.516144
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 94*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+272 0
+
+280 13
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+284 0
+
+286 17
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+250 1
+
+274 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+278 1
+
+282 6
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 -1
+
+237 9
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+251 18
+
+255 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+249 18
+
+253 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 348.840424
+ Tempo médio de espera para aterrisagem: 348.808502
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 95*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+280 12
+
+288 17
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+286 16
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+250 0
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+278 0
+
+282 5
+
+290 7
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 -2
+
+237 8
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+251 17
+
+255 18
+
+259 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+249 17
+
+253 18
+
+257 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 345.200012
+ Tempo médio de espera para aterrisagem: 345.147369
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 96*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+280 11
+
+288 16
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+286 15
+
+292 18
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+282 4
+
+290 6
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+211 -3
+
+237 7
+
+261 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+251 16
+
+255 17
+
+259 18
+
+265 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+253 17
+
+257 18
+
+263 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 341.625000
+ Tempo médio de espera para aterrisagem: 341.447906
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 97*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+280 10
+
+288 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+286 14
+
+292 17
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+282 3
+
+290 5
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+237 6
+
+261 18
+
+269 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+255 16
+
+259 17
+
+265 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+257 17
+
+263 18
+
+267 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 338.010315
+ Tempo médio de espera para aterrisagem: 337.958771
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 98*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+280 9
+
+288 14
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+286 13
+
+292 16
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+294 3
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+282 2
+
+290 4
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+261 17
+
+269 18
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+259 16
+
+265 17
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+263 17
+
+267 18
+
+271 19
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 334.448975
+ Tempo médio de espera para aterrisagem: 334.551025
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+******* Situacao nas filas na Unidade de Tempo: 99*****
+
+------- Conteúdo das filas de aterrisagem------ :
+--------     	Fila de Aterrisagem 1      --------
+
+288 13
+
+298 5
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 2      --------
+
+286 12
+
+292 15
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 3      --------
+
+294 2
+
+296 8
+
+
+ ------------------------------------------------
+--------     	Fila de Aterrisagem 4      --------
+
+282 1
+
+290 3
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 1        --------
+
+261 16
+
+269 17
+
+275 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 2        --------
+
+265 16
+
+273 19
+
+
+ ------------------------------------------------
+--------     	Fila de Decolagem 3        --------
+
+267 17
+
+271 18
+
+
+ ------------------------------------------------
+ Tempo médio de espera para decolagem: 331.080811
+ Tempo médio de espera para aterrisagem: 331.181824
+ Número de avióes que aterrisaram sem reserva de combustível: 0
+
+***********************************************************
+***   HISTORICO DE AVIOES QUE DECOLARAM E ATERRISARAM   ***
+***********************************************************
+
+-------------Numero de aviões que Aterrissaram--------------
+
+141
+
+-------------Numero de avioes que decolaram----------------
+
+131
+
+-------------Numero de avioes que cairam----------------
+
+0

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1605324324 source:/home/lucaslinux/Documentos/2 ano/C/Trabalho Aeroposto/funcoes.cpp
+	"header.hpp"
+
+1650044361 /home/lucaslinux/Documentos/2 ano/C/Trabalho Aeroposto/header.hpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1605324348 source:/home/lucaslinux/Documentos/2 ano/C/Trabalho Aeroposto/main.cpp
+	"header.hpp"
+
